@@ -15,11 +15,6 @@ Unique Diagonal Sudoku: In addition to standard rules, ensures the diagonals als
 Sudoku.java: Implements methods to verify a standard Sudoku grid.
 UniqueDiagonalSudoku.java: Extends Sudoku to add diagonal uniqueness.
 
-# How to Run
-
-Compile and run the classes in a Java-supported IDE.
-Test cases can be run using the provided TestSudoku.java.
-
 # Technologies Used
 
 Java (Arrays, loops, conditionals)
